@@ -1,0 +1,9 @@
+NEO 6M  > ESP 8266
+VCC         3V3
+RX          D6
+TX          D5
+GND         GND
+
+* Suggestion *
+- add lcd screen for status 
+- add led blink for each time the gps tracked
